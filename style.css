@@ -152,6 +152,14 @@ border-radius:20px;
 margin-bottom:80px;
 }
 
+.contact .btn{
+color:#0f172a;
+}
+
+.contact .btn:hover{
+color:#0f172a;
+}
+
 @media(max-width:900px){
 
 .hero{
