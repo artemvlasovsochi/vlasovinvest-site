@@ -14,7 +14,7 @@ aboutText: "Инвестиционный и операционный менед�
 expertiseTitle: "Ключевые компетенции",
 
 experienceTitle: "Профессиональный опыт",
-
+contactTitle: "Контакты",
 meetingButton: "Запланировать встречу",
 
 expertise: [
