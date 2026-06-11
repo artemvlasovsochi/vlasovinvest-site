@@ -75,7 +75,8 @@ content[lang].expertiseTitle;
 
 document.getElementById("experience-title").innerText =
 content[lang].experienceTitle;
-
+document.getElementById("contact-title").innerText =
+content[lang].contactTitle;
 const meetingBtn = document.querySelector(".btn-gold");
 
 if(meetingBtn){
