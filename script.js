@@ -41,7 +41,7 @@ aboutText: "Investment and asset management professional with more than 16 years
 expertiseTitle: "Core Expertise",
 
 experienceTitle: "Professional Experience",
-
+contactTitle: "Contact",
 meetingButton: "Schedule a Meeting",
 
 expertise: [
